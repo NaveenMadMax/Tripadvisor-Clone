@@ -13,7 +13,7 @@ Welcome to my TripAdvisor Clone! 🚀 This project is a simple yet visually appe
 
 🚀 Live Demo
 
-🔗 
+🔗 https://naveenmadmax.github.io/Tripadvisor-Clone/
 
 🛠️ Tech Stack:
 
