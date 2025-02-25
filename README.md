@@ -25,7 +25,7 @@ Media Queries
 
 1️⃣ Clone this repository
 
-git clone https://github.com/your-username/tripadvisor-clone.git
+git clone https://github.com/NaveenMadMax/tripadvisor-clone.git
 
 2️⃣ Open index.html in your browser and explore!
 
